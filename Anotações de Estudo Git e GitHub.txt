@@ -1,0 +1,26 @@
+Link para dowload Git:
+
+https://git-scm.com/downloads
+última versão: 2.36.1
+versão instalada: 2.36.1
+
+Comandos básicos:
+
+ls = listar diretórios
+cd / = ir para diretório
+cd .. = voltar para diretório anterior
+clear ou ctrl L = limpar terminal
+mkdir = criar diretório
+echo = criar arquivo
+del = deletar arquivo dentro de uma pasta
+rmdir /S /Q = deletar pasta/diretório
+
+Gerando encriptação = criando SHA1
+
+Comando
+
+open ssl sha1 "nome do arquivo"
+
+
+
+
